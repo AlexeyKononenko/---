@@ -1,4 +1,4 @@
-import requests
+
 from fake_headers import Headers
 from requests import get
 from bs4 import BeautifulSoup
